@@ -2,9 +2,6 @@
 
 Just a simple collection of scripts that can be run in Node.js to convert Markdown files to CSV, JSON, and vice versa
 
----
-
-## Guides
 ### File Assumptions
 Markdown
 1. The first line of every table are the tables keys
