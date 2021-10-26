@@ -1,4 +1,4 @@
-# samsa-table
+# samsa
 
 Just a simple collection of scripts that can be run in Node.js to convert Markdown files to CSV, JSON, and vice versa
 
